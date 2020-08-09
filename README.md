@@ -37,7 +37,7 @@
 # 资料说明
 swoole官网 http://www.swoole.com
 
-程序聊天界面采用 钉钉 http://dingtalk.com 
+程序聊天界面采用 钉钉UI
 
 前端使用插件：
 上传图片插件：xlyjs 一个封装好的跨域上传js控件（https://github.com/hellosee/xlyjs ）
